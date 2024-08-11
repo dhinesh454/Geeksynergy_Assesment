@@ -11,13 +11,13 @@ Registered users can log in using their credentials. If a user is not registered
 
 ***Post-Login Features***
 
-Upon successful login, users are redirected to the Home page, where the following features are available:
+ Upon successful login, users are redirected to the Home page, where the following features are available:
 
-View All Users: The Home page displays a list of all registered users. This list is fetched from the backend server upon login.
+- View All Users: The Home page displays a list of all registered users. This list is fetched from the backend server upon login.
 
-Edit User Information: Users have the ability to edit their own information or the information of other users, depending on the access level provided. This feature allows for updating user details.
+- Edit User Information: Users have the ability to edit their own information or the information of other users, depending on the access level provided. This feature allows for updating user details.
 
-Delete Users: Users can also delete their own accounts or other users' accounts if authorized. Deleting a user will remove their information from the system.
+- Delete Users: Users can also delete their own accounts or other users' accounts if authorized. Deleting a user will remove their information from the system.
 
 
 
