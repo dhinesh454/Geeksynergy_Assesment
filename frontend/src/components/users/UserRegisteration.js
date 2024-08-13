@@ -80,13 +80,13 @@ const UserRegisteration = () => {
                 <Row className="mb-3">
                     <Form.Group as={Col}>
                         <Form.Label className="fw-bold fst-italic ">Name</Form.Label>
-                        <Form.Control type="text" placeholder="Enter your email" ref={nameRef} required/>
+                        <Form.Control type="text" placeholder="Enter your name" ref={nameRef} required/>
                     </Form.Group>
                 </Row>
                 <Row className="mb-3">
                     <Form.Group as={Col}>
                         <Form.Label className="fw-bold fst-italic ">Email</Form.Label>
-                        <Form.Control type="email" placeholder="Enter your password" ref={emailidRef} required/>
+                        <Form.Control type="email" placeholder="Enter your email" ref={emailidRef} required/>
                     </Form.Group>
                 </Row>
                 <Row className="mb-3">
